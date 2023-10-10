@@ -24,7 +24,7 @@ def sign_up(request):
     return render(request, 'registration/sign_up.html', {"form": form})
 ```
 
-# Criação de posts
+### Criação de posts
 
 ```python
 @login_required(login_url="/login")
