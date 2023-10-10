@@ -3,7 +3,6 @@
 ### Sumário
 
 * [Visão geral](#visão-geral)
-* [Convenções de código](#convenções-de-código)
 
 # Visão geral
 
