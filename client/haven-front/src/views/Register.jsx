@@ -5,15 +5,8 @@ function Register() {
   return (
     <div className="bg-blue-300">
       <div className="flex h-screen items-center justify-center">
-        <div>
-          <motion.h1
-            animate={{ x: -50 }}
-            className="text-center text-5xl font-semibold text-white mx-20"
-          >
-            Oi! primeira vez por aqui?
-          </motion.h1>
-        </div>
-        <div className="w-full max-w-sm bg-white rounded-lg shadow-md p-5">
+        
+        <div className="w-full m-auto max-w-sm bg-white rounded-lg shadow-md p-5">
           <h1 className="text-center text-5xl font-bold my-4 text-slate-700">
             Registre-se
           </h1>
